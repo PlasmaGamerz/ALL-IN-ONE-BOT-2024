@@ -20,12 +20,12 @@ module.exports = {
             })
             .setDescription(`
                 ➡️ **${lang.supportDescriptionTitle}:**
-                - ${lang.discord} - ${supportServerLink}
+                - ${lang.discord} - ${https://discord.gg/VktvS6jxga}
                 
                 ➡️ **${lang.followUsOn}:**
-                - ${lang.github} - ${githubLink}
-                - ${lang.replit} - ${replitLink}
-                - ${lang.youtube} - ${youtubeLink}
+                - ${lang.github} - ${https://github.com/PlasmaGamerz}
+                - ${lang.replit} - ${https://replit.com/@Plasma_Gamerz}
+                - ${lang.youtube} - ${https://youtube.com/@plasma_gamerz?si=Tx-cfqXLLu94THgG}
             `)
             .setImage(lang.supportImageURL)
             .setTimestamp();
